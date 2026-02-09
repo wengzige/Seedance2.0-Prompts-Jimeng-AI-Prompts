@@ -75,5 +75,8 @@ High-quality Jimeng AI Video Prompts for douyin
 
 **④大爷开飞船视频 配文：“不是...现在的农村都发展成这样了吗？”**
 
+<img width="1554" height="597" alt="506c70bb3facf095b0f0f33d97f51c0f" src="https://github.com/user-attachments/assets/c17fa87a-ad1b-4afc-be98-c9c793b59d1c" />
+<img width="1551" height="588" alt="0d0e07738955d1384b0771e6fa29c18b" src="https://github.com/user-attachments/assets/cbf57928-f879-4096-96c1-8eafba4986f0" />
+
 ### 📢 免责声明
 # 本仓库提供的提示词仅供学习与交流。
