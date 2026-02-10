@@ -1,4 +1,4 @@
-# Seedance2.0-Prompts-Jimeng-AI-Prompts
+# Seedance2.0-Prompts-Jimeng-AI-Prompts 附seedance2.0使用方法
 High-quality Jimeng AI Video Prompts for douyin
 # 🔥抖音爆款流量密码：即梦AI (Jimeng) 提示词库
 # Jimeng AI Viral Video Prompts (Realism & Meme Focus)
@@ -77,6 +77,12 @@ High-quality Jimeng AI Video Prompts for douyin
 
 <img width="1554" height="597" alt="506c70bb3facf095b0f0f33d97f51c0f" src="https://github.com/user-attachments/assets/c17fa87a-ad1b-4afc-be98-c9c793b59d1c" />
 <img width="1551" height="588" alt="0d0e07738955d1384b0771e6fa29c18b" src="https://github.com/user-attachments/assets/cbf57928-f879-4096-96c1-8eafba4986f0" />
+
+### 📢 seedance2.0使用方法
+**即梦网页版** 正常登录后申请创作者计划：https://jimeng.jianying.com/ai-tool/activity-detail/2026-004-dreamina-weekly-challenge 如是填写提交并等待审核
+审核成功后即有2.0资格
+**小云雀移动端app** 直接下载登录即可免费体验3次seedance2.0生成并且有130积分。通过邀请链接下载有新人福利：https://xiaoyunque.jianying.com/s/iNQid0e3So8/ 
+选择“沉浸式短片2.0”即可开始生成
 
 ### 📢 免责声明
 # 本仓库提供的提示词仅供学习与交流。
